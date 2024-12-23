@@ -146,3 +146,5 @@ This project is a Node.js-based application that is a multi-level referral syste
 3. Integration with external payment gateways.
 4. Enhanced security measures (e.g., encryption, secure password storage).
 5. Add more data in models.
+6. Shift from nodejs to nest js.
+   
